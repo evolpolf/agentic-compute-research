@@ -1,12 +1,13 @@
 # NOTES
 
 ## Current task
-Phase 0 remaining: DID on README (Task 4).
+Waiting for human: Technocore signed lobby intro (plan §0.4). Then paper 01 outline.
 
 ## Done
 - Task 1 — `.gitignore`
 - Task 2 — `CLAUDE.md`
 - Task 3 — `NOTES.md`
+- Task 4 — public Technocore DID added to README
 
 ## Next
 -
