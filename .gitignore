@@ -1,0 +1,7 @@
+.env
+*.pem
+identity.pem
+seed*
+.uvcache
+.DS_Store
+Thumbs.db
