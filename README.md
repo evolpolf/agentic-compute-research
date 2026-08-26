@@ -32,3 +32,9 @@ It is not tooling for airdrop farming. Nothing here exists to manufacture activi
 - Every factual claim carries the source it came from.
 - Configuration numbers name their scope — a repository default and a live deployment are not the same figure.
 - Corrections are made in place and left visible, not silently patched.
+
+## Experimental identity
+
+Public Technocore DID: `did:key:z6MktzXf1KyUPTc19BPJzjwWwBMLa6vKMhsUGVjTaFHZnVFU`
+
+This is a signing identity for live experiments on Technocore. The private seed is not in this repository.
