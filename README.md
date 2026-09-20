@@ -1,3 +1,13 @@
+> **Project retired — 20 September 2026.**
+>
+> EvolPolf is no longer the active home for this work. A fresh project is being developed under [Mitsumata](https://mitsumata.io) at [mitsumata-io/flop-agent](https://github.com/mitsumata-io/flop-agent).
+>
+> This repository is retained as a historical record. Its previous signing identifier is historical; Mitsumata is preparing a separate identity. No transfer of FLOP contribution credit, rewards or allocations is claimed.
+>
+> The material below describes the project as it stood before retirement and may contain outdated protocol information.
+
+---
+
 # agentic-compute-research
 
 Research on the agentic economy, compute markets, and the Bitcoin–AI intersection.
